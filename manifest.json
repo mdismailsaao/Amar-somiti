@@ -1,0 +1,18 @@
+{
+  "name": "খিলমুরারী একতা সমবায় সমিতি",
+  "short_name": "খিলমুরারী সমিতি",
+  "description": "খিলমুরারী একতা সমবায় সমিতি ব্যবস্থাপনা অ্যাপ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e",
+  "lang": "bn",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2910/2910791.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
